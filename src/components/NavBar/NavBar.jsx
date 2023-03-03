@@ -9,7 +9,7 @@ export default function NavBar({ user, setUser }) {
 
   return (
     <nav>
-      <Link to="/orders">Counter</Link>
+      <Link to="/productivity">Let's get productive!</Link>
       &nbsp; | &nbsp;
       <Link to="/orders/new">Results</Link>
       &nbsp;&nbsp;
